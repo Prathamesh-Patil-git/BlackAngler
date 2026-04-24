@@ -100,3 +100,6 @@
 :root[color-scheme="dark"] .loader-logo-light { display: none !important; }
 .loader-logo { height: 40px !important; width: auto !important; }
 @media only screen and (min-width:768px) { .loader-logo { height: 48px !important; } }
+/* Footer Text Size Override */
+.fw-mark__content { font-size: 15cqw !important; }
+@media only screen and (min-width:992px) { .fw-mark__content { font-size: 15cqw !important; } }
